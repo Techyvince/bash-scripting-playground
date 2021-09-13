@@ -19,4 +19,3 @@ sudo yum install wget -y
 sudo yum install unzip
 sudo yum install tree
 sudo yum install neofetch
-sudo yum install neofetch
